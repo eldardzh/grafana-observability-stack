@@ -11,3 +11,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-12` — clarify component responsibilities
 - `2025-05-16` — refine engineering invariants
 - `2025-05-20` — terminology cleanup
+- `2025-05-20` — refine engineering invariants
