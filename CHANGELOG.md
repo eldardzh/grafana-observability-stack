@@ -13,3 +13,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-20` — terminology cleanup
 - `2025-05-20` — refine engineering invariants
 - `2025-05-21` — improve mermaid diagram
+- `2025-05-21` — refine engineering invariants
