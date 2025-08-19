@@ -16,3 +16,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-21` — refine engineering invariants
 - `2025-05-29` — terminology cleanup
 - `2025-08-18` — terminology cleanup
+- `2025-08-19` — ADR — chain-agnostic boundary
