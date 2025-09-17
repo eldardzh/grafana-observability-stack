@@ -17,3 +17,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-29` — terminology cleanup
 - `2025-08-18` — terminology cleanup
 - `2025-08-19` — ADR — chain-agnostic boundary
+- `2025-09-17` — rephrase capabilities
