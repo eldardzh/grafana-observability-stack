@@ -22,3 +22,4 @@ This log tracks architectural and documentation refinements.
 - `2025-09-26` — terminology cleanup
 - `2025-10-27` — ADR — reorg-safe projection
 - `2025-10-28` — badge refresh
+- `2025-12-09` — scope clarification
