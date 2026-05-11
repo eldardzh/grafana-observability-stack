@@ -24,3 +24,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-28` — badge refresh
 - `2025-12-09` — scope clarification
 - `2026-05-11` — capabilities — clarify wording
+- `2026-05-11` — rephrase capabilities
