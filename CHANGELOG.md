@@ -28,3 +28,4 @@ This log tracks architectural and documentation refinements.
 - `2026-05-11` — more precise stack list
 - `2026-05-12` — rephrase capabilities
 - `2026-05-12` — expand 'My Role' section
+- `2026-05-12` — scope clarification
