@@ -29,3 +29,4 @@ This log tracks architectural and documentation refinements.
 - `2026-05-12` — rephrase capabilities
 - `2026-05-12` — expand 'My Role' section
 - `2026-05-12` — scope clarification
+- `2026-05-13` — markdown lint
