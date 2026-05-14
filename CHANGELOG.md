@@ -31,3 +31,4 @@ This log tracks architectural and documentation refinements.
 - `2026-05-12` — scope clarification
 - `2026-05-13` — markdown lint
 - `2026-05-13` — link external references
+- `2026-05-14` — tighten architecture overview
