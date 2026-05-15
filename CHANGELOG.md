@@ -33,3 +33,4 @@ This log tracks architectural and documentation refinements.
 - `2026-05-13` — link external references
 - `2026-05-14` — tighten architecture overview
 - `2026-05-14` — ADR — idempotent execution
+- `2026-05-15` — more precise stack list
