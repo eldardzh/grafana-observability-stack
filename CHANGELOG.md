@@ -35,3 +35,4 @@ This log tracks architectural and documentation refinements.
 - `2026-05-14` — ADR — idempotent execution
 - `2026-05-15` — more precise stack list
 - `2026-05-17` — trailing whitespace
+- `2026-05-18` — ADR — risk layer veto authority
